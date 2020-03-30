@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+git 및 github 공부용
